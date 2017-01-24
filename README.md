@@ -4,7 +4,7 @@ A python-based CLI tool to retrieve weather, using various weather APIs
 # Usage
 Currently only the following functionality exists
 * `cleather.py` - will try and guess where you are based on IP geolocation.  May not be accurate
-* `cleather.py ./cleather.py --location "Apex, NC"` - enter essentially any searchable/parseable location in the world.
+* `cleather.py --location "Apex, NC"` - enter essentially any searchable/parseable location in the world.
 
 # Purpose
 The purpose of this program will is/will be to:
