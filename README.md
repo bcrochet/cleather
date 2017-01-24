@@ -19,3 +19,9 @@ The purpose of this program will is/will be to:
 * User should be able to choose Imperial or Metric units when data is displayed
 * User should be able to get a forecast using approximate location (via IP geolocation) in lieu of entering a particular location.  This, however, may not always be accurate.
 
+# Notes
+* By design, this program will require users to create their own API keys for various weather sources. This also assumes users follow all guidelines put in place by the data source providers.  All efforts will be made in this program to adhere to those guidelines
+* For more information on APIs, please visit the following URLs:
+  * https://darksky.net/dev/
+  * https://openweathermap.org/api
+
